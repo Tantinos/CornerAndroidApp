@@ -38,6 +38,7 @@ public class CVS_Model {
         this.power_g = power_g;
     }
 
+
     @Override
     public String toString() {
         return "BoxVariable{" +
