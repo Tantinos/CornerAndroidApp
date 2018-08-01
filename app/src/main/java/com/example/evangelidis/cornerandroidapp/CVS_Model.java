@@ -38,16 +38,6 @@ public class CVS_Model {
         this.power_g = power_g;
     }
 
-
-    @Override
-    public String toString() {
-        return "BoxVariable{" +
-                "time='" + time + '\'' +
-                ", punch_ty='" + punch_ty + '\'' +
-                ", speed_m='" + speed_m + '\'' +
-                ", power_g='" + power_g + '\'' +
-                '}';
-    }
 }
 
 
